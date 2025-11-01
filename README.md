@@ -1,2 +1,2 @@
-# PomoSense
-GenAI-Powered Smart Advisory &amp; Disease Detection System for Pomegranate Farmers
+# PomoSense  
+GenAI-Powered Smart Advisory & Disease Detection System for Pomegranate Farmers
